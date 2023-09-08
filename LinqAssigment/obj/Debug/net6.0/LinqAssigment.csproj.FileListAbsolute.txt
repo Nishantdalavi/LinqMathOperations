@@ -1,0 +1,15 @@
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\bin\Debug\net6.0\LinqAssigment.exe
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\bin\Debug\net6.0\LinqAssigment.deps.json
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\bin\Debug\net6.0\LinqAssigment.runtimeconfig.json
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\bin\Debug\net6.0\LinqAssigment.dll
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\bin\Debug\net6.0\LinqAssigment.pdb
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.csproj.AssemblyReference.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.AssemblyInfoInputs.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.AssemblyInfo.cs
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.csproj.CoreCompileInputs.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.dll
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\refint\LinqAssigment.dll
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.pdb
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\LinqAssigment.genruntimeconfig.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\LinqAssigment\obj\Debug\net6.0\ref\LinqAssigment.dll
